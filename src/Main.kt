@@ -12,13 +12,7 @@ Xtochk.add(readln().toDouble())
  println("Введите координату Y точки №${i}:")
  Ytochk.add(readln().toDouble())
     }
-
-
-    for (i in Xtochk){
-        val pochka = Tochka(Xtochk[i], )
-    }
-
-
+val pochka = Tochka(Xtochk,Ytochk)
 
 
 }

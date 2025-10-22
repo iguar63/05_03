@@ -1,5 +1,4 @@
-class Tochka(xic: Double, yic:Double){
-val xic = xic
-    val yic = yic
+class Tochka(x:MutableListOf<Double>,Y:MutableListOf<Double> ){
+
     fun srav() =
 }
